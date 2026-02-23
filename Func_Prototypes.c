@@ -11,7 +11,7 @@
 void hello(char name[] , int yearsold); //FUNTION PROTOTYPE
 
 int main(){
-    
+
     hello("KEA", 45);
     return 0;
 }
