@@ -2,7 +2,7 @@
 #include <string.h>
 #include <math.h>
 
-//switch() => AN ALTERNATIVE TO USING MANYIF-ELSE STATEMENT
+//switch() => AN ALTERNATIVE TO USING MANY IF-ELSE STATEMENT
 //         => MORE EFFICIENT WITH INTEGERS AND CHARACTERS
 
 int main(){

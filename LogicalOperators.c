@@ -6,7 +6,7 @@
 // LOGICAL OPERATORS => USED IN CONDITIOONS
 // && => AND
 // || => OR
-// ! => NOT
+// !  => NOT
 
 int main(){
 
