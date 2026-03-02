@@ -3,6 +3,7 @@
 #include <math.h>
 #include <stdbool.h>
 
+
 // Nested Loops => A loop inside of another one
 
 int main(){
