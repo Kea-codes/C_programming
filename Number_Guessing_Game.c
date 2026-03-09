@@ -39,7 +39,6 @@ int main(){
 
     printf("THE ANSWER IS %d\n", answer);
     printf("IT TOOK YOU %d tries", tries);
-    
 
     return 0;
 }
